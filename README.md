@@ -1,2 +1,2 @@
-# Web Scrapping using Beautiful Soup
+# Web Scraping using Beautiful Soup
 + Scraping the latest news from google
